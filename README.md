@@ -7,7 +7,7 @@ Nathan Shugarts<sup>1</sup>, Aishwarya Sathya<sup>1</sup>, Andrew L. Yi<sup>1</s
 
 *Correspondence to: amjose@umd.edu
 
-This paper describes the analysis of RNA seqeuncing data from wild-type and <i>sid-1(-)</i> animals to identidty <i>sid-1</i>-dependent genes (<i>sdg</i>). It also compares 21 published datasets from a few past studies on RNA silencing that examined changes in mRNA and small RNA levels to identify changes in <i>sdg-1</i> and <i>sdg-2</i>, if any.
+This paper describes the analysis of RNA seqeuncing data from wild-type and <i>sid-1(-)</i> animals to identify <i>sid-1</i>-dependent genes (<i>sdg</i>). It also compares 21 published datasets from a few past studies on RNA silencing that examined changes in mRNA and small RNA levels to identify changes in <i>sdg-1</i> and <i>sdg-2</i>, if any.
 
 Scripts:
 
