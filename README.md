@@ -11,9 +11,9 @@ This paper describes the analysis of RNA seqeuncing data from wild-type and sid-
 
 Scripts:
 
-  differential_expression_analysis_example.R
+        differential_expression_analysis_example.R
   
   
-  sdg-1_and_sdg-2_in_past_studies.R
+        sdg-1_and_sdg-2_in_past_studies.R
 
 Details for each step are commented on within the scripts. Modify paths as required before use.
