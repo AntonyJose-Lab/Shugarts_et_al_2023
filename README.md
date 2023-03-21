@@ -16,3 +16,6 @@ Scripts:
         sdg-1_and_sdg-2_in_past_studies.R
 
 Each step is commented on within the scripts. Modify paths as required before use.
+
+The programs run as expected in R version 4.2.2 (2022-10-31) -- "Innocent and Trusting"
+No installations other than R and the libraries listed within the program are needed for running these programs.
