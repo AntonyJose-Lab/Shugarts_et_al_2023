@@ -17,5 +17,6 @@ Scripts:
 
 Each step is commented on within the scripts. Modify paths as required before use.
 
-The programs run as expected in R version 4.2.2 (2022-10-31) -- "Innocent and Trusting"
+The programs run as expected in R version 4.2.2 (2022-10-31) -- "Innocent and Trusting".
+
 No installations other than R and the libraries listed within the program are needed for running these programs.
